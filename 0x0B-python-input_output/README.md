@@ -1,10 +1,9 @@
 ## Input/Output
 File handling in Python.
-<img src="pythonINandOUT.jpeg" />
-![python input and output](/pythonINandOUT.jpeg)
- 
 
-## Functions
+<img src="pythonINandOUT.jpeg" width="800" />
+
+ ## Functions
 * `open`
 * `read`
 
