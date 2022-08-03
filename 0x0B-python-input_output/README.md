@@ -1,6 +1,6 @@
 ## Input/Output
 File handling in Python.
-![python imput and output](/pythoninANDout.jpeg) 
+![python input and output](/pythonINandOUT.jpeg) 
 
 ## Functions
 * `open`
